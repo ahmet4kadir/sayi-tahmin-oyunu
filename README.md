@@ -7,6 +7,7 @@ The game will give you hints if your guess is too high or too low, and it tracks
 - Hints: higher or lower
 - Tracks number of attempts
 
+
 # Example of gameplay
 +I picked a number between 1-100, take a guess!
 +What is your guess?
